@@ -5,6 +5,6 @@
   <img src="https://i.pinimg.com/originals/50/e8/1b/50e81b57409bbb13fc0749c3b2465fa5.gif" width="2560" height="500">
 </div>
 
-[![Twitter: josejulianmtnez](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/josejulianmtnez)
-[![Instagram: josejulianmtnez](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://instagram/josejulianmtnez/)
-[![GitHub josejulianmtnez](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/josejulianmtnez)
+[![Twitter: josejulianmtnez](https://img.shields.io/twitter/follow/josejulianmtnez?style=social)](https://twitter.com/josejulianmtnez)
+[![Instagram: josejulianmtnez](https://img.shields.io/instagram/follow/josejulianmtnez?style=social)](https://instagram/josejulianmtnez/)
+[![GitHub josejulianmtnez](https://img.shields.io/github/followers/josejulianmtnez?label=follow&style=social)](https://github.com/josejulianmtnez)
