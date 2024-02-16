@@ -16,8 +16,6 @@ I want to enhance my skills in each of the new programming languages I'm learnin
   
 <h2> 🖥️ Technologies</h2>
   
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/30px-Java_programming_language_logo.svg.png" width="50">
-<img src="https://developer.android.com/studio/images/studio-icon.svg" width="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/30px-Python-logo-notext.svg.png" width="50">
+<img src="https://developer.android.com/studio/images/studio-icon.svg" width="50">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/30px-Python-logo-notext.svg.png" width="50">     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/30px-Java_programming_language_logo.svg.png" width="50">       
 <h4>Thank you for visiting my GitHub profile!</h4>
 
