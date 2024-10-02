@@ -43,5 +43,3 @@
 <br clear="both">
 
 ###
-![Snake animation]
-(https://github.com/josejulianmtnez/josejulianmtnez/blob/output/github-contribution-grid-snake.svg)
