@@ -25,8 +25,6 @@
 
 ###
 
-<img align="right" height="250" src="https://i.ibb.co/LYBVLn7/jules-Fondo-Azul-removebg-preview.png"  />
-
 ###
 
 
