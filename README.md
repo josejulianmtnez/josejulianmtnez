@@ -1,4 +1,5 @@
-## Hi there 👋
+## ![https://github.com/josejulianmtnez](./jules_emote.png) Hola, me dicen Jules 👋
+
 
 <!--
 **josejulianmtnez/josejulianmtnez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
