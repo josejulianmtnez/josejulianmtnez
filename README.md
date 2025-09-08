@@ -1,4 +1,4 @@
-## ![https://github.com/josejulianmtnez](./jules_emote.png) Hola, me dicen Jules 👋
+## ![https://github.com/josejulianmtnez](./jules_emote_right.png) Hola, me dicen Jules 👋
 
 
 <!--
