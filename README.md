@@ -4,8 +4,9 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-_-_?style=social&logo=instagram)](https://instagram.com/josejulianmtnez)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzzRLuCVTY7L8LDSl7fRYnA?style=social)](https://www.youtube.com/@juliscript?sub_confirmation=1)
-![GitHub Followers](https://img.shields.io/github/followers/josejulianmtnez?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/josejulianmtnez?style=social)
+[![GitHub Followers](https://img.shields.io/github/followers/josejulianmtnez?style=social)](
+https://github.com/users/follow?target=josejulianmtnez)
+[![GitHub Stars](https://img.shields.io/github/stars/josejulianmtnez?style=social)](https://github.com/josejulianmtnez/RouteMap)
 
 ### Main Skills
 
