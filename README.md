@@ -7,7 +7,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/josejulianmtnez?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/josejulianmtnez?style=social)
 
-### Main skills
+### Main Skills
 
 [![My Skills](https://skillicons.dev/icons?i=git,mongodb,js,ts,html,css,bootstrap,mysql,nodejs,react,php,androidstudio,figma,notion,github)](https://skillicons.dev)
 
