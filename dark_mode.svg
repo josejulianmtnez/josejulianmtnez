@@ -484,11 +484,11 @@ text, tspan {white-space: pre;}
   <text
      xml:space="preserve"
      id="text208"
-     style="fill:#000000;text-align:start;writing-mode:lr-tb;text-orientation:auto;direction:ltr;white-space:pre;shape-inside:url(#rect208)" />
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect208);display:inline;fill:#000000" />
   <text
      xml:space="preserve"
      id="text827"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Geist Mono';-inkscape-font-specification:'Geist Mono';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect827);shape-padding:2.97015;fill:#ffa657;fill-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Geist Mono';-inkscape-font-specification:'Geist Mono';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect827);shape-padding:2.97015;display:inline;fill:#ffa657;fill-opacity:1"
      x="0"
      y="0"
      transform="matrix(1.0320059,0,0,1.0481336,-42.516661,-561.20059)"><tspan
@@ -510,7 +510,7 @@ text, tspan {white-space: pre;}
    style="fill:#616e7f"
    id="tspan103">............................ </tspan><tspan
    style="fill:#a5d6ff"
-   id="tspan104">Windows 10, Linux Mint
+   id="tspan104">Windows 11, Linux Mint
 </tspan></tspan><tspan
        x="413.21289"
        y="666.40243"
@@ -733,13 +733,13 @@ text, tspan {white-space: pre;}
   <text
      xml:space="preserve"
      id="text873"
-     style="fill:#616e7f;text-align:start;writing-mode:lr-tb;text-orientation:auto;direction:ltr;font-size:14.66666667px;-inkscape-font-specification:'Geist Mono';font-family:'Geist Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill-opacity:1;white-space:pre;shape-inside:url(#rect873)" />
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'Geist Mono';-inkscape-font-specification:'Geist Mono';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect873);display:inline;fill:#616e7f;fill-opacity:1" />
   <text
      xml:space="preserve"
      id="text874"
-     style="fill:#616e7f;text-align:start;writing-mode:lr-tb;text-orientation:auto;direction:ltr;font-size:14.66666667px;-inkscape-font-specification:'Geist Mono';font-family:'Geist Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill-opacity:1;white-space:pre;shape-inside:url(#rect874)" />
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'Geist Mono';-inkscape-font-specification:'Geist Mono';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect874);display:inline;fill:#616e7f;fill-opacity:1" />
   <text
      xml:space="preserve"
      id="text875"
-     style="fill:#616e7f;text-align:start;writing-mode:lr-tb;text-orientation:auto;direction:ltr;font-size:14.66666667px;-inkscape-font-specification:'Geist Mono';font-family:'Geist Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill-opacity:1;white-space:pre;shape-inside:url(#rect875)" />
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:'Geist Mono';-inkscape-font-specification:'Geist Mono';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect875);display:inline;fill:#616e7f;fill-opacity:1" />
 </svg>
