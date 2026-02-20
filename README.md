@@ -23,4 +23,4 @@ Beyond programming, I enjoy listening to music, reading books, and playing video
 
 ### My Stats
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=josejulianmtnez&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&hide_border=true"/><img height="195rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josejulianmtnez&langs_count=12&layout=compact&langs_count=8&theme=great-gatsby&include_all_commits=true&count_private=true&hide_border=true" /> <img src="https://streak-stats.demolab.com?user=josejulianmtnez&theme=great-gatsby&hide_border=true" alt="josejulianmtnez's GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=josejulianmtnez&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&hide_border=true"/><img src="https://streak-stats.demolab.com?user=josejulianmtnez&theme=great-gatsby&hide_border=true" alt="josejulianmtnez's GitHub Stats" />
