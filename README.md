@@ -1,4 +1,4 @@
-# ![https://github.com/josejulianmtnez](./src/assets/images/jules_emote.png) Hi! I'm Jules 👋
+# ![https://github.com/josejulianmtnez](./src/assets/images/jules_emote.png) Hi! I'm Jules
 
 ![https://github.com/josejulianmtnez](./src/assets/images/jules_github_profile_background.png)
 
